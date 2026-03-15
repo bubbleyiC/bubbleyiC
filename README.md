@@ -1,6 +1,7 @@
 # Hi there, I'm CMY
 
-我是一位熱愛技術的工程師，具備軟硬體整合能力。專注於 **數位 IC 設計 (Digital IC Design)** 與 **軟體/影像處理演算法 (Image Processing)**。
+我是目前就讀電子工程相關科系的學生。
+對於軟硬體/軟體充滿熱忱，目前的學習重心放在數位 IC 設計 (Digital IC Design) 與 影像處理。這個 GitHub 記錄了我的課堂專案與實作練習。
 
 ## Tech Stack (技術棧)
 * **硬體開發:** Verilog, Quartus, ModelSim
