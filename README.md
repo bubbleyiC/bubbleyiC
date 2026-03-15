@@ -11,7 +11,7 @@
 
 ## Featured Projects (精選作品集)
 
-### 💻 [1. 2019 大學IC設計競賽題實作 (CONV)](https://github.com/bubbleyiC/2019-IC-Design-Contest-CONV)
+### [1. 2019 大學IC設計競賽題實作 (CONV)](https://github.com/bubbleyiC/2019-IC-Design-Contest-CONV)
 * **關鍵技術:** `Verilog`, `ModelSim`, `Quartus`
 * **專案簡介:** 獨立實作 CNN 卷積神經網路加速器之 RTL 電路設計，完成 ModelSim 模擬驗證，並通過 Quartus 進行合成與時序分析。
 
