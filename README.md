@@ -1,15 +1,15 @@
-# Hi there, I'm [NAME]
+# Hi there, I'm CMY
 
 我是一位熱愛技術的工程師，具備軟硬體整合能力。專注於 **數位 IC 設計 (Digital IC Design)** 與 **軟體/影像處理演算法 (Image Processing)**。
 
-## 🛠️ Tech Stack (技術棧)
+## Tech Stack (技術棧)
 * **硬體開發:** Verilog, Quartus, ModelSim
 * **軟體開發:** C/C++, Git
 * **核心領域:** IC Design, FPGA, 影像處理演算法
 
 ---
 
-## Featured Projects (精選作品集)
+## Featured Projects (作品集)
 
 ### [1. 2019 大學IC設計競賽題實作 (CONV)](https://github.com/bubbleyiC/2019-IC-Design-Contest-CONV)
 * **關鍵技術:** `Verilog`, `ModelSim`, `Quartus`
