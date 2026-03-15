@@ -4,8 +4,8 @@
 
 ## Tech Stack (技術棧)
 * **硬體開發:** Verilog, Quartus, ModelSim
-* **軟體開發:** C/C++, Git
-* **核心領域:** IC Design, FPGA, 影像處理演算法
+* **軟體開發:** C/C++, Python, 演算法, 資料結構 
+* **核心領域:** RTL, FPGA, 影像處理
 
 ---
 
