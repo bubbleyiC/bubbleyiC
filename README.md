@@ -1,16 +1,16 @@
-# Hi there, I'm CMY
+# 莊旻益
 
 我是目前就讀電子工程相關科系的學生。
 對於軟硬體/軟體充滿熱忱，目前的學習重心放在數位 IC 設計 (Digital IC Design) 與 影像處理。這個 GitHub 記錄了我的課堂專案與實作練習。
 
-## Tech Stack (技術棧)
+## 技術棧 (Tech Stack)
 * **硬體開發:** Verilog, Quartus, ModelSim
 * **軟體開發:** C/C++, Python, 演算法, 資料結構 
 * **核心領域:** RTL, FPGA, 影像處理
 
 ---
 
-## Featured Projects (作品集)
+## 作品集 (Featured Projects )
 
 ### 1. [2019 大學IC設計競賽初賽題實作 (CONV)](https://github.com/bubbleyiC/2019-IC-Design-Contest-CONV)
 * **關鍵技術:** `Verilog`, `ModelSim`, `Quartus`
