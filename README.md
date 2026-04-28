@@ -1,7 +1,7 @@
 # 莊旻益
 
 我是目前就讀電子工程相關科系的學生。
-對於軟硬體/軟體充滿熱忱，目前的學習重心放在數位 IC 設計 (Digital IC Design) 與 影像處理。這個 GitHub 記錄了我的課堂專案與實作練習。
+對於軟硬體/軟體充滿熱忱，目前的學習重心放在數位IC設計(Digital IC Design)與影像處理。這個 GitHub 記錄了我的課堂專案與實作練習。
 
 ## 技能 (Skill)
 * **硬體開發:** Verilog, Quartus, ModelSim
