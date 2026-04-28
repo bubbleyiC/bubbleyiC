@@ -3,7 +3,7 @@
 我是目前就讀電子工程相關科系的學生。
 對於軟硬體/軟體充滿熱忱，目前的學習重心放在數位 IC 設計 (Digital IC Design) 與 影像處理。這個 GitHub 記錄了我的課堂專案與實作練習。
 
-## 技能 (Tech Stack)
+## 技能 (Skill)
 * **硬體開發:** Verilog, Quartus, ModelSim
 * **軟體開發:** C/C++, Python, 演算法, 資料結構 
 * **核心領域:** RTL, FPGA, 影像處理
@@ -25,4 +25,4 @@
 * **專案簡介:** 不依賴外部高階函式庫，實作包含直方圖均衡化、中值濾波、Sobel 邊緣檢測等 7 種核心影像處理。
 
 ---
-**Contact me:** [yim6573293185o72i@gmail.com]
+**聯絡資訊:** [yim6573293185o72i@gmail.com]
